@@ -1,1 +1,8 @@
-/* Write your CSS here! */
+body {
+    background-color: darkred;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
