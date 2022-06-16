@@ -1,8 +1,61 @@
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 125px;
+    margin-right: 125px;
+    font-size: 105%;
+    text-align: center;
+}
+
 body {
     background-image: linear-gradient(#660020, #003300, #000033);
     text-align: center;
+    font-family: Papyrus, fantasy;
+    color: #cccccc;
+    width: 100%;
+    max-width: 1235px;
+    margin: 8px auto;
+    display: block;
 }
 
 header {
     text-align: center;
+}
+
+#wwlogo {
+    float: left;
+    padding: 30px;
+}
+
+figure {
+    padding: 25px;
+}
+
+footer p {
+    text-align: center;
+    display: inline-block;
+}
+
+#mainHeading {
+    color: red;
+    font-size: 225%;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 200%;
+}
+
+section {
+    border-top-style: ridge;
+    border-color: black;
+}
+
+#findhouse {
+    text-align: left;
+}
+
+.funParagraph {
+    color: green;
 }
