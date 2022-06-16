@@ -96,6 +96,12 @@ nav ul li {
     margin-right: 25px;
     font-size: 160%;
 }
+
+a:link {
+    color: silver;
+    background-color: transparent;
+    text-decoration: none;
+}
   
 a:visited {
     color: silver;
